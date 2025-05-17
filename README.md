@@ -19,7 +19,7 @@ ComicVerse ML Continuum is an interactive web application that fuses the worlds 
 💾 Hero-Powered Exports: Download your analysis with themed export options
 🛠️ Installation
 # Clone this repository
-git clone https://github.com/your-username/comicverse-ml-continuum.git
+git clone (https://github.com/abdullah3373/semesterproject)
 cd comicverse-ml-continuum
 
 # Create a virtual environment (optional but recommended)
