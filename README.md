@@ -36,7 +36,7 @@ streamlit>=1.10.0 pandas>=1.4.0 numpy>=1.22.0 plotly>=5.5.0 scikit-learn>=1.0.0 
 🚀 Usage
 Launch the application:
 bashstreamlit run main.py
-Access the app in your browser (https://comicverse-ml-continuum-uns4ktyas8gpy4dckzjcp8.streamlit.app/?page=welcome)
+Access the app in your browser (https://semesterproject-6ndbvysz76vtvndq7cgemy.streamlit.app/?page=welcome)
 
 Navigate to the Mission Control home screen Choose your data source: Upload your own CSV/Excel file Fetch real-time stock data from Yahoo Finance Use pre-generated sample datasets
 
